@@ -37,3 +37,8 @@
 <p>&nbsp;</p>    
 
 ---  
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/KanekiWeb/count.svg" />
+</p>
