@@ -7,8 +7,8 @@
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
-    <img src="https://lanyard-profile-readme.vercel.app/api/922450497074495539"/>
+  <a href="https://github.com/ZaphirWeb">
+    <img src="https://lanyard.cnrad.dev/api/938852462780121191"/>
      </a>
 </p>
 
