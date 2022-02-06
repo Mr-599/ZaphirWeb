@@ -1,9 +1,8 @@
 <p align='center'>
-  <b>Hi 👋, I'm Kaneki</b><br>
-  <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
-  <a href="https://codepen.io/KanekiWeb">Code Pen</a>
+  <b>Hi 👋, I'm Zaphir</b><br>
+  <a href="https://discord.gg/5CesQTFCuD">Discord</a> |
+  <a href="https://youtube.com/channel/UCJc9nB6s9lOUahBoeEhKWjQ">YouTube</a> | 
+  <a href="https://zaphirweb.sellix.io/">Shop</a> |
 </p>
 
 <p align="center"><br>
