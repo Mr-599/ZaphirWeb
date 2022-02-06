@@ -40,5 +40,5 @@
 
 <p align="center"> 
   Compteur de visites :<br>
-  <img src="https://profile-counter.glitch.me/KanekiWeb/count.svg" />
+  <img src="https://profile-counter.glitch.me/ZaphirWeb/count.svg" />
 </p>
